@@ -1,0 +1,30 @@
+{
+  "name": "phone-numbers",
+  "version": "1.0.0",
+  "description": "Get a random fake phone numbers",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "phone",
+    "numbers",
+    "country",
+    "KZ"
+  ],
+  "author": "Marat Zhurmukhamedov <web@akurat.kz> (https://akurat.kz/)",
+  "license": "ISC",
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zmhan-github/fake-phone.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zmhan-github/fake-phone/issues"
+  },
+  "homepage": "https://github.com/Zmhan-github/fake-phone#readme"
+}
